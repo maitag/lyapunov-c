@@ -3,6 +3,7 @@ This little command line tool calculates the [lyapunov](https://en.wikipedia.org
 and puts out a commented ppm-image on standard output.  
   
 It simmulates behavior of a dynamic system to get fractal images like this:  
+  
 ![](samples/sample5.jpg?raw=true)
 
 
