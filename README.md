@@ -23,6 +23,8 @@ to see order of input parameters.
   
   
   
+  
+  
 ### generate images
 
 On linux you can use image converting tools like netpbm
@@ -47,9 +49,11 @@ i*200
 100
 EOF
 ```
-
-
-
+  
+  
+  
+  
+  
 ### todo
 - refactoring function-calculation and symbolic differentation math
 
