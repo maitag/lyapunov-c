@@ -1,6 +1,6 @@
 ## lyapunov-c
 This little command line tool calculates the [lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov)-[indices](https://en.wikipedia.org/wiki/Chaotic_mixing#Lyapunov_exponents) from a function input  
-and puts out a commented ppm-image on standard output.  
+and puts out an image in [plain ppm format](http://netpbm.sourceforge.net/doc/ppm.html#plainppm).  
   
 It simmulates behavior of a dynamic system to get fractal  
 images like this:  
