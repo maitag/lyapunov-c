@@ -2,30 +2,30 @@
 This little command line tool calculates the [lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov)-[indices](https://en.wikipedia.org/wiki/Chaotic_mixing#Lyapunov_exponents) from a function input  
 and puts out a commented ppm-image on standard output.  
   
-It simmulates behavior of a dynamic system to get fractal images like this:  
+It simmulates behavior of a dynamic system to get fractal  
+images like this:  
   
 ![](samples/sample5.jpg?raw=true)
 
 
-### build binary and test
+### Build binary and test
 ```
 make
 sh test.sh
 ```
 
 
-### use interactive first
+
+### Use interactive first
 
 ```
 ./lyapunov
 ```
-to see order of input parameters.
-  
-  
-  
-  
-  
-### generate images
+to see order of input parameters.  
+
+
+
+### Generate images
 
 On linux you can use image converting tools like netpbm
 ```
@@ -49,12 +49,10 @@ i*200
 100
 EOF
 ```
-  
-  
-  
-  
-  
-### todo
+
+
+
+### Todo
 - refactoring function-calculation and symbolic differentation math
 
 
