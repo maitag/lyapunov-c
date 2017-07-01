@@ -53,6 +53,6 @@ EOF
 
 
 ### Todo
-- refactoring function-calculation and symbolic differentation math
+- symbolic differentation math for equations like ``f(x) = a^g(x)``
 
 
