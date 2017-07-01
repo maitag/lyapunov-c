@@ -53,6 +53,6 @@ EOF
 
 
 ### Todo
-- symbolic differentation math for equations like ``f(x) = a^g(x)``
+- symbolic differentation for equations like ``f(x) = a^g(x)``
 
 
